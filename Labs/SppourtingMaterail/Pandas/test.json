@@ -1,0 +1,92 @@
+{
+  "Persons": [
+    {
+      "name": "Mussab",
+      "age": 19,
+      "ProgrammingLanguages": ["JavaScript", "Python", "C++"],
+      "isStudent": true,
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "country": "USA"
+      },
+      "known": {
+        "Skills": {
+          "WebDevelopment": {
+            "SimpleHtML": {
+              "SkillLevel": "Beginner",
+              "YearsOfExperience": 1,
+              "StartedIn": "2023"
+            },
+            "Flask": {
+              "SkillLevel": "Intermediate",
+              "YearsOfExperience": 13,
+              "StartedIn": "2003"
+            },
+            "Mern": {
+              "SkillLevel": "Intermediate",
+              "YearsOfExperience": 13,
+              "StartedIn": "2003"
+            }
+          },
+          "DataScience": {
+            "Pandas": {
+              "SkillLevel": "Beginner",
+              "YearsOfExperience": 1,
+              "StartedIn": "2023"
+            },
+            "Numpy": {
+              "SkillLevel": "Beginner",
+              "YearsOfExperience": 1,
+              "StartedIn": "2023"
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Mussab",
+      "age": 19,
+      "ProgrammingLanguages": ["JavaScript", "Python", "C++"],
+      "isStudent": true,
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "country": "USA"
+      },
+      "known": {
+        "Skills": {
+          "WebDevelopment": {
+            "SimpleHtML": {
+              "SkillLevel": "Beginner",
+              "YearsOfExperience": 1,
+              "StartedIn": "2023"
+            },
+            "Flask": {
+              "SkillLevel": "Intermediate",
+              "YearsOfExperience": 13,
+              "StartedIn": "2003"
+            },
+            "Mern": {
+              "SkillLevel": "Intermediate",
+              "YearsOfExperience": 13,
+              "StartedIn": "2003"
+            }
+          },
+          "DataScience": {
+            "Pandas": {
+              "SkillLevel": "Beginner",
+              "YearsOfExperience": 1,
+              "StartedIn": "2023"
+            },
+            "Numpy": {
+              "SkillLevel": "Beginner",
+              "YearsOfExperience": 1,
+              "StartedIn": "2023"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

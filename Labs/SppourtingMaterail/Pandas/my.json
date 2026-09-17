@@ -1,0 +1,37 @@
+{
+  "collectionName": "Personal Reading List",
+  "owner": "mussab",
+  "created": "2025-11-12T00:00:00Z",
+  "books": [
+    {
+      "id": 1,
+      "title": "Learning Pythonic Patterns",
+      "author": "A. Developer",
+      "isbn": "978-0-00-000000-1",
+      "published": "2021-05-10",
+      "pages": 320,
+      "tags": ["programming", "python", "reference"],
+      "summary": "Concise guide to idiomatic Python patterns and best practices."
+    },
+    {
+      "id": 2,
+      "title": "Practical Algorithms",
+      "author": "B. Engineer",
+      "isbn": "978-0-00-000000-2",
+      "published": "2019-09-01",
+      "pages": 280,
+      "tags": ["algorithms", "computer science"],
+      "summary": "Hands-on explanations of common algorithms with examples."
+    },
+    {
+      "id": 3,
+      "title": "Web Development Essentials",
+      "author": "C. Designer",
+      "isbn": "978-0-00-000000-3",
+      "published": "2023-02-20",
+      "pages": 250,
+      "tags": ["web", "html", "css", "javascript"],
+      "summary": "Fundamentals of modern web development and best tooling."
+    }
+  ]
+}

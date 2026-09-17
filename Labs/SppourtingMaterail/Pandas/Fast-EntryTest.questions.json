@@ -1,0 +1,161 @@
+{
+  "questions": [
+    {
+      "_id": {
+        "$oid": "67b27d31ddc882b22db06722"
+      },
+      "statement": "\n\\text{Find the derivative of } \\tan (\\sin (\\cos 2x)) \\text{ with respect to } x.\n",
+      "image": null,
+      "options": [
+        {
+          "statement": "\n\\sec^2 (\\sin (\\cos 2x)) \\cos (\\cos 2x) (-\\sin 2x) (2)\n",
+          "image": null,
+          "_id": {
+            "$oid": "67b27d31ddc882b22db06723"
+          }
+        },
+        {
+          "statement": "\n\\sec^2 (\\sin (\\cos 2x)) \\cos (\\cos 2x) (-\\sin 2x)\n",
+          "image": null,
+          "_id": {
+            "$oid": "67b27d31ddc882b22db06724"
+          }
+        },
+        {
+          "statement": "\n\\sec^2 (\\sin (\\cos 2x)) \\cos (\\cos 2x) \\sin 2x (2)\n",
+          "image": null,
+          "_id": {
+            "$oid": "67b27d31ddc882b22db06725"
+          }
+        },
+        {
+          "statement": "\n\\sec^2 (\\sin (\\cos 2x)) \\sin (\\cos 2x) (-\\sin 2x) (2)\n",
+          "image": null,
+          "_id": {
+            "$oid": "67b27d31ddc882b22db06726"
+          }
+        },
+        {
+          "statement": "\n\\sec^2 (\\sin (\\cos 2x)) (-\\sin (\\cos 2x)) (-\\sin 2x) (2)\n",
+          "image": null,
+          "_id": {
+            "$oid": "67b27d31ddc882b22db06727"
+          }
+        }
+      ],
+      "correctOption": 0,
+      "approved": true,
+      "section": "Advance Math",
+      "uploadedBy": "240001",
+      "questionfolderId": null,
+      "createdAt": {
+        "$date": "2025-02-17T00:05:05.539Z"
+      },
+      "updatedAt": {
+        "$date": "2025-07-06T19:54:25.017Z"
+      },
+      "__v": 0,
+      "subSection": "Derivative"
+    },
+    {
+      "_id": {
+        "$oid": "67b3fcb6ddc882b22db08f14"
+      },
+      "statement": "\n\\text{If } y = \\sinh x, \\text{ then which of the following is correct?}\n",
+      "image": null,
+      "options": [
+        {
+          "statement": "\n\\cosh^2 x - \\sinh^2 x\n",
+          "image": null,
+          "_id": {
+            "$oid": "67b3fcb6ddc882b22db08f15"
+          }
+        },
+        {
+          "statement": "\\frac{e^{x}+e^{-x}}{2}",
+          "image": null,
+          "_id": {
+            "$oid": "67b3fcb6ddc882b22db08f16"
+          }
+        },
+        {
+          "statement": "\n\\frac{e^x - e^{-x}}{2}\n",
+          "image": null,
+          "_id": {
+            "$oid": "67b3fcb6ddc882b22db08f17"
+          }
+        },
+        {
+          "statement": "\\cosh x",
+          "image": null,
+          "_id": {
+            "$oid": "67b3fcb6ddc882b22db08f18"
+          }
+        }
+      ],
+      "correctOption": 2,
+      "approved": true,
+      "section": "Advance Math",
+      "uploadedBy": "240001",
+      "questionfolderId": null,
+      "createdAt": {
+        "$date": "2025-02-18T03:21:26.546Z"
+      },
+      "updatedAt": {
+        "$date": "2025-07-06T19:54:25.017Z"
+      },
+      "__v": 0,
+      "subSection": "Hyperbola"
+    },
+    {
+      "_id": {
+        "$oid": "67b3fde8ddc882b22db08f21"
+      },
+      "statement": "\n\\text{If } y = \\tanh x, \\text{ then which of the following is correct?}\n",
+      "image": null,
+      "options": [
+        {
+          "statement": "\n\\frac{e^x - e^{-x}}{e^x + e^{-x}}\n",
+          "image": null,
+          "_id": {
+            "$oid": "67b3fde8ddc882b22db08f22"
+          }
+        },
+        {
+          "statement": "\\frac{e^{x}+e^{-x}}{e^{x}-e^{-x}}",
+          "image": null,
+          "_id": {
+            "$oid": "67b3fde8ddc882b22db08f23"
+          }
+        },
+        {
+          "statement": "\\sec h^2x",
+          "image": null,
+          "_id": {
+            "$oid": "67b3fde8ddc882b22db08f24"
+          }
+        },
+        {
+          "statement": "\\frac{\\sinh x}{\\cosh x}",
+          "image": null,
+          "_id": {
+            "$oid": "67b3fde8ddc882b22db08f25"
+          }
+        }
+      ],
+      "correctOption": 0,
+      "approved": true,
+      "section": "Advance Math",
+      "uploadedBy": "240001",
+      "questionfolderId": null,
+      "createdAt": {
+        "$date": "2025-02-18T03:26:32.457Z"
+      },
+      "updatedAt": {
+        "$date": "2025-07-06T19:54:25.017Z"
+      },
+      "__v": 0,
+      "subSection": "Hyperbola"
+    }
+  ]
+}
